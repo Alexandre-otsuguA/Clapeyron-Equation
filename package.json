@@ -1,0 +1,12 @@
+{
+  "name": "clapeyron-equation",
+  "version": "1.0.0",
+  "description": "Descrever o comportamento de um gás perfeito",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "Alexandre Augusto",
+  "license": "ISC"
+}
